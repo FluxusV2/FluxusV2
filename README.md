@@ -13,7 +13,7 @@ pc ✔
 apple ❌
 
 
-if u wanna download the executor🎉 u need to turn off this ⬇
+if u wanna download the executor🎉 u need to turn this off  ⬇ before downloading the executor 
 
 
 
