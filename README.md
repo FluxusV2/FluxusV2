@@ -11,3 +11,7 @@ download ✔
 samsung ✔
 pc ✔
 apple ❌
+
+
+if u wanna download the executor🎉u need to klick on the grenn code then download zip👀 after u got the file extract it it should look like this ⬇
+
